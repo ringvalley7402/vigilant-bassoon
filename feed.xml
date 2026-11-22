@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>bibowrock-sec2</title>
+    <link href="https://ringvalley7402.github.io/vigilant-bassoon/feed.xml" rel="self" />
+    <link href="https://ringvalley7402.github.io/vigilant-bassoon" />
+    <updated>2026-11-23T07:49:08+09:00</updated>
+    <author>
+        <name>ringvalley7402</name>
+    </author>
+    <id>https://ringvalley7402.github.io/vigilant-bassoon</id>
+
+    <entry>
+        <title>test</title>
+        <author>
+            <name>ringvalley7402</name>
+        </author>
+        <link href="https://ringvalley7402.github.io/vigilant-bassoon/test/"/>
+        <id>https://ringvalley7402.github.io/vigilant-bassoon/test/</id>
+
+        <updated>2026-11-23T07:49:08+09:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    test page01
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>test page01</p>
+            ]]>
+        </content>
+    </entry>
+</feed>

@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "bibowrock-sec2",
+    "description": "",
+    "home_page_url": "https://ringvalley7402.github.io/vigilant-bassoon",
+    "feed_url": "https://ringvalley7402.github.io/vigilant-bassoon/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "ringvalley7402"
+    },
+    "items": [
+        {
+            "id": "https://ringvalley7402.github.io/vigilant-bassoon/test/",
+            "url": "https://ringvalley7402.github.io/vigilant-bassoon/test/",
+            "title": "test",
+            "summary": "test page01",
+            "content_html": "<p>test page01</p>",
+            "author": {
+                "name": "ringvalley7402"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-11-23T07:49:08+09:00",
+            "date_modified": "2026-11-23T07:49:08+09:00"
+        }
+    ]
+}
